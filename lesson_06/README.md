@@ -1,12 +1,21 @@
-**Lesson 6**
+**Lesson 5**
 
 Class Work:
 
 1. Please complete the following exercises if you haven't already:
 
-- todolist.html
+- dogphoto.html
 
-Extra Resources on To-do-lists and Bootstrap:
+- cocktails.html (including the moscow mule challenge)
 
-1. https://dev.to/shantanu_jana/how-to-make-a-todo-list-using-javascript-2o75
-2. https://www.youtube.com/watch?v=eow125xV5-c
+- pokemon.html
+
+- botscore.html
+
+2. Check out the Astronomy Picture of the Day API from Nasa here: https://api.nasa.gov/
+
+- Read through the docs and build a small application that displays the picture of the day for any day the user chooses. You will not get any starter code for this assignment, notice the nasa folder is empty. As a stretch goal you could even keep track of a users image URLs in local storage.
+
+Extra Resources on APIs:
+
+1. https://developer.mozilla.org/en-US/docs/Web/API
